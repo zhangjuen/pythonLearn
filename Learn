@@ -7,3 +7,7 @@ pandas #also plot
 1. in command window, go to python install folder (like: C:\Users\Administrator\AppData\Local\Programs\Python\Python37)
    you can go to start, from the short-cut find the target folder
 2. python -m pip install pakageName
+
+
+#uninstall package on windows
+ python -m pip install pakageName
