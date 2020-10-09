@@ -1,3 +1,9 @@
 #to read csv file
 numpy
 pandas #also plot
+
+
+#install package on windows
+1. in command window, go to python install folder (like: C:\Users\Administrator\AppData\Local\Programs\Python\Python37)
+   you can go to start, from the short-cut find the target folder
+2. python -m pip install pakageName
